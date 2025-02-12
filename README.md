@@ -4,15 +4,21 @@ Hi, I'm Sharon P Garapati, a dedicated student pursuing a Higher Diploma in Scie
 Skills
 
 •	Programming: Java, HTML, CSS, JavaScript
+
 •	Database: MySQL
+
 •	Methodologies: Agile Software Development
+
 •	Soft Skills: Communication, problem-solving, organization, multitasking, and adaptability
 
 Interests
 
 •	Coding & continuous learning
+
 •	Baking, cooking, and photography
+
 •	Travelling and creating informative YouTube videos
+
 •	Playing badminton
 
 On my GitHub, you will find projects related to programming that showcase my growth and learning in these areas. With each project, I aim to learn something new and enhance my skills.
